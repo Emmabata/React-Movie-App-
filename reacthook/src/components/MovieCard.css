@@ -1,0 +1,16 @@
+.movieCard{
+    display: flex;
+    justify-content: space-between;
+    margin:15px;
+    border: 2px solid brown;
+    min-width: 100vh;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+.TitDesRate{
+    display: block;
+    margin: 10px;
+    line-height: 50px;
+    text-align: justify;
+}
